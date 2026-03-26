@@ -1,0 +1,23 @@
+DiseaseName,Alpha,Beta
+Gastrointestinal,0.6,60
+Cardiac/Vascular,0.7,50
+Neurological,0.6,70
+Renal,0.7,60
+Respiratory,0.6,65
+Multitrauma,0.8,50
+Blood/Immune,0.7,60
+Diabetes/Endocrine,0.7,55
+DNW Prior to Triage,0.6,50
+Drug/Alcohol/Poisoning,0.7,55
+ENT/Oral,0.7,60
+Environmental/Temperature/MISC,0.6,55
+GP referred /Hosp transfer,0.7,60
+Injury,0.8,50
+Eye,0.7,45
+Nonemergent Review,0.5,40
+Obstetrics/Gynaecology,0.6,50
+Paediatric,0.7,55
+Pain,0.6,50
+Psychiatric/Behavioural,0.6,45
+Regional Problems,0.7,55
+Urinary/Reproductive,0.7,60

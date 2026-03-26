@@ -1,0 +1,100 @@
+PersonId,PatientId,Name,Gender,TriageCategory,Disease,ArrivalTime,WaitingTime,TreatmentTime,Status
+25,0,Aqib,male,3,Respiratory,0:0:0,0:0:0,0:3:12,Discharged
+26,1,Zahid,male,2,Renal,0:0:40,0:0:0,0:1:43,Discharged
+27,2,Bilal,male,2,Nonemergent Review,0:3:40,0:0:0,0:0:27,Discharged
+28,3,Kinza,female,4,Eye,0:6:30,0:0:0,0:3:38,PDDT
+29,4,Saima,female,3,DNW Prior to Triage,0:11:30,0:0:0,0:5:38,Discharged
+30,5,Nazia,female,3,Neurological,0:12:10,0:0:0,0:3:59,Discharged
+31,6,Aqib,male,4,Paediatric,0:12:20,0:0:0,0:3:34,Discharged
+32,7,Bushra,female,4,DNW Prior to Triage,0:14:30,0:0:0,0:2:57,Discharged
+33,8,Asad,male,3,Eye,0:15:10,0:0:0,0:3:13,Discharged
+34,9,Nimra,female,5,Respiratory,0:15:50,0:0:0,0:3:40,Discharged
+35,10,Arooj,female,3,GP referred /Hosp transfer,0:16:30,0:0:0,0:0:50,Discharged
+36,11,Omar,male,5,Injury,0:16:40,0:0:0,0:2:26,Discharged
+37,12,Khalid,male,3,Blood/Immune,1:0:0,0:0:0,0:0:56,Discharged
+38,13,Shazia,female,5,Eye,1:2:30,0:0:0,0:5:22,Discharged
+39,14,Saima,female,4,Multitrauma,2:0:0,0:0:0,0:2:54,Discharged
+40,15,Hassan,male,4,Injury,2:1:40,0:0:0,0:4:48,Discharged
+41,16,Erum,female,3,Nonemergent Review,3:0:0,0:0:0,0:2:50,Discharged
+42,17,Tahira,female,1,Paediatric,3:0:10,0:0:0,0:3:44,Discharged
+43,18,Mustafa,male,4,GP referred /Hosp transfer,3:0:20,0:0:0,0:4:18,Discharged
+44,19,Amna,female,4,Cardiac/Vascular,3:0:30,0:0:0,0:4:14,Discharged
+45,20,Amna,female,3,Pain,3:0:50,0:0:0,0:1:15,Discharged
+46,21,Anum,female,4,Gastrointestinal,4:0:0,0:0:0,0:2:31,Discharged
+47,22,Zeeshan,male,4,GP referred /Hosp transfer,0:0:0,0:0:0,0:2:8,Discharged
+47,22,Zeeshan,male,4,GP referred /Hosp transfer,0:0:0,0:0:0,0:2:8,Discharged
+49,24,Anum,female,3,ENT/Oral,0:0:0,0:0:0,0:0:10,Discharged
+49,24,Anum,female,3,ENT/Oral,0:0:0,0:0:0,0:0:10,Discharged
+50,25,Shafiq,male,4,Regional Problems,0:0:0,0:0:0,0:0:20,Discharged
+50,25,Amna,female,3,Blood/Immune,0:0:0,0:0:0,0:2:28,Discharged
+51,26,Maha,female,4,Drug/Alcohol/Poisoning,0:0:10,0:0:0,0:0:20,Discharged
+50,25,Salman,male,2,Diabetes/Endocrine,0:0:0,0:0:0,0:4:44,Discharged
+50,25,Azhar,male,4,Regional Problems,0:0:0,0:0:0,0:3:57,Discharged
+51,26,Ishrat,female,4,Blood/Immune,0:0:10,0:0:0,0:1:32,Discharged
+52,27,Sabahat,female,2,Multitrauma,0:3:30,0:0:0,0:2:0,Discharged
+53,28,Mustafa,male,4,Neurological,0:4:10,0:0:0,0:0:17,Discharged
+54,29,Komal,female,3,Paediatric,0:6:30,0:0:0,0:2:35,Discharged
+55,30,Nimra,female,5,Injury,0:7:30,0:0:0,0:1:29,Discharged
+56,31,Kinza,female,3,Injury,0:7:40,0:0:0,0:3:37,Discharged
+57,32,Rabia,female,3,DNW Prior to Triage,0:8:10,0:0:0,0:5:27,Discharged
+58,33,Saad,male,3,Renal,0:8:30,0:0:0,0:3:21,Discharged
+59,34,Moazzam,male,3,Diabetes/Endocrine,0:8:50,0:0:0,0:5:30,Discharged
+60,35,Imran,male,4,Cardiac/Vascular,0:10:40,0:0:0,0:1:36,PDDT
+61,36,Junaid,male,2,Paediatric,0:10:50,0:0:0,0:3:25,Discharged
+62,37,Arooj,female,2,Paediatric,0:11:20,0:0:0,0:5:44,Discharged
+63,38,Younas,male,4,Gastrointestinal,0:13:10,0:0:0,0:0:58,PDDT
+64,39,Younas,male,5,ENT/Oral,1:0:0,0:0:0,0:4:23,Discharged
+51,26,Bilal,male,2,Cardiac/Vascular,1:0:0,0:0:0,0:3:52,Discharged
+52,27,Fahad,male,4,Obstetrics/Gynaecology,2:0:0,0:0:0,0:0:42,PDDT
+53,28,Tariq,male,3,Respiratory,2:0:10,0:0:0,0:2:53,Discharged
+54,29,Rashid,male,5,Diabetes/Endocrine,2:0:30,0:0:0,0:5:2,Discharged
+55,30,Ishrat,female,3,Psychiatric/Behavioural,2:7:50,0:0:0,0:1:4,Discharged
+56,31,Kamran,male,3,Pain,2:9:50,0:0:0,0:2:45,Discharged
+57,32,Mehwish,female,4,Eye,2:11:40,0:0:0,0:2:11,Discharged
+58,33,Tariq,male,4,Regional Problems,3:0:0,0:0:0,0:0:6,Discharged
+65,40,Saad,male,2,Psychiatric/Behavioural,2:0:0,0:0:0,0:5:56,Discharged
+59,34,Asad,male,3,Renal,3:3:0,0:0:0,0:5:33,Discharged
+60,35,Ibrahim,male,2,Nonemergent Review,3:5:40,0:0:0,0:5:26,Discharged
+61,36,Danish,male,4,Drug/Alcohol/Poisoning,3:11:10,0:0:0,0:2:30,Discharged
+62,37,Danish,male,4,Drug/Alcohol/Poisoning,3:11:30,0:0:0,0:4:58,Discharged
+63,38,Hira,female,4,Cardiac/Vascular,3:12:20,0:0:0,0:1:54,Discharged
+64,39,Aisha,female,4,ENT/Oral,3:14:50,0:0:0,0:2:23,Discharged
+65,40,Hamza,male,2,Renal,3:15:10,0:0:0,0:4:40,Discharged
+66,41,name,female,2,Eye,3:15:20,0:0:0,0:6:15,Discharged
+67,42,Rizwan,male,3,Paediatric,3:18:30,0:0:0,0:4:53,Discharged
+68,43,Saad,male,3,Respiratory,3:19:40,0:0:0,0:4:43,Discharged
+69,44,Yasir,male,5,Nonemergent Review,4:0:50,0:0:0,0:2:50,Discharged
+70,45,Komal,female,3,DNW Prior to Triage,4:1:50,0:0:0,0:1:30,Discharged
+71,46,Hassan,male,4,Drug/Alcohol/Poisoning,4:2:20,0:0:0,0:4:41,Discharged
+72,47,Umer,male,3,Drug/Alcohol/Poisoning,0:0:0,0:0:0,0:5:39,Discharged
+73,48,Umer,male,3,DNW Prior to Triage,0:0:10,0:0:0,0:0:21,Discharged
+74,49,Jawad,male,2,DNW Prior to Triage,0:2:0,0:0:0,0:4:15,PDDT
+75,50,Omar,male,4,Pain,0:2:40,0:0:0,0:0:18,Discharged
+76,51,Rukhsana,female,4,Eye,0:3:40,0:0:0,0:3:46,Discharged
+72,47,Mustafa,male,5,Renal,0:0:0,0:0:0,0:1:15,Discharged
+72,47,Ahmed,male,4,Diabetes/Endocrine,0:0:0,0:0:0,0:0:5,Discharged
+73,48,Danish,male,4,Respiratory,0:1:30,0:0:0,0:3:39,Discharged
+74,49,Aisha,female,3,Environmental/Temperature/MISC,0:1:40,0:0:0,0:5:47,Discharged
+72,47,Naila,female,3,Drug/Alcohol/Poisoning,0:0:0,0:0:0,0:5:13,Discharged
+73,48,Nadia,female,2,Blood/Immune,0:0:20,0:0:0,0:0:32,Discharged
+74,49,Maha,female,2,Pain,0:1:50,0:0:0,0:3:31,Discharged
+72,47,Sabahat,female,3,Obstetrics/Gynaecology,0:0:0,0:0:0,0:0:44,PDDT
+73,48,Aamna,female,3,Multitrauma,0:2:10,0:0:0,0:2:6,Discharged
+74,49,Farah,female,4,Eye,0:2:30,0:0:0,0:4:50,Discharged
+75,50,Mehwish,female,5,Gastrointestinal,0:2:40,0:0:0,0:4:2,Discharged
+76,51,Hira,female,5,Eye,0:4:20,0:0:0,0:0:33,Discharged
+77,52,Naveed,male,3,Multitrauma,0:5:10,0:0:0,0:2:45,Discharged
+78,53,Huma,female,3,Pain,0:5:40,0:0:0,0:0:12,Discharged
+72,47,Maha,female,4,Eye,0:0:0,0:0:0,0:3:11,Discharged
+72,47,Kamran,male,3,GP referred /Hosp transfer,0:0:0,0:0:0,0:4:13,Discharged
+73,48,Nadia,female,4,Cardiac/Vascular,0:1:50,0:0:0,0:1:44,Discharged
+72,47,Khalid,male,4,Psychiatric/Behavioural,0:0:0,0:0:0,0:2:4,PDDT
+73,48,Zahid,male,4,Gastrointestinal,0:0:30,0:0:0,0:2:46,Discharged
+72,47,Moazzam,male,2,Blood/Immune,0:0:0,0:0:0,0:5:2,Discharged
+72,47,Moazzam,male,2,Blood/Immune,0:0:0,0:0:0,0:5:2,Discharged
+74,49,Beenish,female,5,Gastrointestinal,0:0:20,0:0:0,0:3:35,PDDT
+72,47,Nadia,female,2,Obstetrics/Gynaecology,0:0:0,0:0:0,0:1:18,Discharged
+72,47,Nadia,female,2,Obstetrics/Gynaecology,0:0:0,0:0:0,0:1:18,Discharged
+74,49,Adnan,male,3,Multitrauma,0:0:0,0:0:0,0:0:1,Discharged
+74,49,Sara,female,3,Environmental/Temperature/MISC,0:0:0,0:0:0,0:3:38,Discharged
+81,56,Moazzam,male,5,GP referred /Hosp transfer,0:0:0,0:0:0,0:0:40,Discharged
