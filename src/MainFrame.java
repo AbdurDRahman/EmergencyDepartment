@@ -22,7 +22,9 @@ public class MainFrame {
     private LocalResourceManager localResourceManager;
 
     public static void main(String[] args) {
-        try {
+        // Enable High-DPI scaling to prevent text clipping and UI distortion on high-resolution screens
+    	System.setProperty("swt.autoScale", "quarter"); 
+    	try {
             MainFrame window = new MainFrame();
             window.open();
         } catch (Exception e) {
